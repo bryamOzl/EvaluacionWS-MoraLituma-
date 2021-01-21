@@ -1,0 +1,5 @@
+ec\edu\ups\pruebaSegundo\modelo\Titulo.class
+ec\edu\ups\pruebaSegundo\utils\Resources.class
+ec\edu\ups\pruebaSegundo\DAO\PersonaDao.class
+ec\edu\ups\pruebaSegundo\DAO\TituloDAO.class
+ec\edu\ups\pruebaSegundo\modelo\Persona.class
